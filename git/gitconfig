@@ -14,6 +14,7 @@
     ci = commit
     st = status
     br = branch
+    pom = "push origin main"
     unstage = "reset HEAD --"
 # Logs
     hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
