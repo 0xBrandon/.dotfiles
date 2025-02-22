@@ -27,4 +27,4 @@
     dl = "!git ll -1"
     aliases = config --get-regexp alias
 [credential]
-	helper = cache --timeout=3600
+	helper = osxkeychain
